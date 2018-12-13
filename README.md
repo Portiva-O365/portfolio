@@ -9,7 +9,7 @@ Deze GitHub repositories worden door Portiva beschikbaar gesteld en zijn te gebr
 Voor alle SPFx web parts wordt de broncode als ook de SharePoint Package aangeboden. Hierdoor is het dus mogelijk om zelf de code aan te passen en een nieuwe package te maken of gewoon de package downloaden, toevoegen in het SharePoint App Center en direct gebruiken op je site.
 
 De volgende web parts worden aangeboden:
-- Inhoudsopgave web part
+- [Inhoudsopgave web part](./InhoudsopgaveWebPart.md)
 - RSS web part
 
 ## Row- en Column Formatting
