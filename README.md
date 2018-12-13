@@ -19,7 +19,6 @@ Voor zowel Row- als Column Formatting functionaliteit, wordt direct de JSON aang
 De volgende Row- en Column formatting wordt aangeboden:
 - Frequently Asked Questions
 
----
 ## Disclaimer
 
 > THIS CODE IS PROVIDED AS IS WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING ANY IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE, MERCHANTABILITY, OR NON-INFRINGEMENT.
