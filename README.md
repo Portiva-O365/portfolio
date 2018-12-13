@@ -14,7 +14,7 @@ De volgende web parts worden aangeboden:
 
 ## Row- en Column Formatting
 
-Voor zowel Row- als Column Formatting functionaliteit, wordt direct de JSON aangeboden. Deze is direct te gebruiken op kolommen in SharePoint. Elke functionaliteit bevat een uitleg wat de formatting doet, welke velden worden verwacht en hoe de JSON toegepast moet worden.
+Voor zowel Row- als Column Formatting functionaliteit, wordt direct de JSON aangeboden. Deze is te gebruiken op kolommen of weergaves in SharePoint. Elke functionaliteit bevat een uitleg wat de formatting doet, welke velden worden verwacht en hoe de JSON toegepast moet worden.
 
 De volgende Row- en Column formatting wordt aangeboden:
 - Frequently Asked Questions
