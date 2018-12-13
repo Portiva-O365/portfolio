@@ -10,7 +10,7 @@ Voor alle SPFx web parts wordt de broncode als ook de SharePoint Package aangebo
 
 De volgende web parts worden aangeboden:
 - [Inhoudsopgave web part](./InhoudsopgaveWebPart.md)
-- [RSS web part](./RSSWebPart.md)
+- [RSS web part](https://github.com/Portiva-O365/webpart-rss)
 
 ## Row- en Column Formatting
 
