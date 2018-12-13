@@ -10,7 +10,7 @@ Voor alle SPFx web parts wordt de broncode als ook de SharePoint Package aangebo
 
 De volgende web parts worden aangeboden:
 - [Inhoudsopgave web part](./InhoudsopgaveWebPart.md)
-- RSS web part
+- [RSS web part](./RSSWebPart.md)
 
 ## Row- en Column Formatting
 
