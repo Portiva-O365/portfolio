@@ -22,7 +22,7 @@ Om een web part package te gebruiken, moet je deze eerst downloaden uit GitHub:
 3. Is het bestand al aanwezig, kies dan **Vervangen**
 4. SharePoint vraagt of dit bestand *uitgerold mag worden*, kies *Ja*
 
-Na deze laatste stap is het `.ppkg` bestand geinstalleerd en kan het gebruikt worden in de sites op de tenant.
+Na deze laatste stap is het `.sppkg` bestand geinstalleerd en kan het gebruikt worden in de sites op de tenant.
 
 ## Stap 3 - Toevoegen in een site
 
