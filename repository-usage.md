@@ -1,4 +1,4 @@
-# Expand the repository yourself
+# How to use the repository
 
 In order to further expand or adjust the repository itself, the repository must be locally cloned. The description below shows how to do this with Visual Studio Code.
 
