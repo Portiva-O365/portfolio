@@ -14,10 +14,10 @@ The following web parts are available:
 
 ## Row- and Column Formatting
 
-For both Row and Column Formatting functionality, the JSON is available as downloadable file. This can be used on columns or views in SharePoint. Each functionality contains an explanation of what the formatting does, which fields are expected and how the JSON should be applied.
+For both [Row][link-repo-rowformatting] and Column Formatting functionality, the JSON is available as downloadable file. This can be used on columns or views in SharePoint. Each functionality contains an explanation of what the formatting does, which fields are expected and how the JSON should be applied.
 
 The following Row- and Column formatting is available:
-- Frequently Asked Questions
+- [Frequently Asked Questions](https://github.com/Portiva-O365/row-formatting/tree/master/FAQ)
 
 ## Disclaimer
 
@@ -28,3 +28,5 @@ The following Row- and Column formatting is available:
 
 [link-repo-wptoc]: https://github.com/Portiva-O365/webpart-tableofcontents
 [link-repo-wprss]: https://github.com/Portiva-O365/webpart-rss
+
+[link-repo-rowformatting]: https://github.com/Portiva-O365/row-formatting
